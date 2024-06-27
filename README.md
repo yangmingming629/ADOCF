@@ -1,2 +1,2 @@
 # ADOCF
-The source code will be available when the paper was accepted.
+The source code will be available once the paper has been accepted.
